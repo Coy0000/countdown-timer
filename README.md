@@ -27,7 +27,9 @@ This project was built to practice working with:
 ### Example Usage:
 
 <p align="center">
-Enter your time to countdown: <br/>
+Enter your time to countdown: <br/
+```bash
+Enter required time (s):600
 <img src="https://github.com/Coy0000/countdown-timer/blob/main/Capture1.PNG" height="80%" width="80%" alt="Start"/>
 <br />
 <br />
